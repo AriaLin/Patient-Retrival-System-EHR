@@ -1,5 +1,5 @@
 # EECS6895---project
-<img src="Figs/微信图片_20200524154349.png" alt="Compound Emotions" width="500"/>
+<img src="Figs/微信图片_20200524154349.png" alt="Compound Emotions" />
 
 # Abstract
    Healthcare is a major industry in the United States and it is important in the lives of many citizens, but unfortunately the continuingly rising in medicare care overall experienture and high costs of health-related services leave many patients with limited medical care.  
